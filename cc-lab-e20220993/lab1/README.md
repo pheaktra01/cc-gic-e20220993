@@ -1,7 +1,5 @@
 # Cloud Lab 1 Submission — Amazon EC2
 
-Copy this template to `cc-lab-YOUR_ID/lab1/README.md` in your own repository. Follow [the instructions](lab1-instruction.md). Put your screenshots in `lab1/images/` with the file names below.
-
 - **Student name: Loeng Pheaktra**
 - **Student ID:**
 - **Learner Lab user name: LOENG_PHEAKTRA**
